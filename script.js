@@ -14,7 +14,7 @@ var finaldate = todaymonth +" "+ todaydate + "," + currentyear;
 
 
 //get date
-var mydate = finaldate + " 8:45:00";
+var mydate = finaldate + " 14:00:00";
 console.log(mydate);
 var countDownDate = new Date(mydate).getTime();
 
